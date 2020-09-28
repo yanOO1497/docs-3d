@@ -60,6 +60,7 @@ Cocos Creator 3D 在构建图片的时候，会查找当前图片是否进行了
 | Web Mobile        | ASTC / ETC2 / ETC1 / PVR / WEBP |
 | WeChat Game       | ETC1 / PVR           |
 | AliPay Mini Game  | ETC1 / PVR           |
+| Byte Dance Mini Game | ETC1 / PVR           |
 | Baidu Mini Game   | ETC1 / PVR           |
 | OPPO Mini Game    | ETC1                 |
 | vivo Mini Game    | ETC1                 |
