@@ -52,6 +52,11 @@
   - [发布到 Web 平台](editor/publish/publish-web.md)
   - [发布到原生平台](editor/publish/publish-native.md)
     - [安装配置原生环境](editor/publish/setup-native-development.md)
+      - [原生平台通用选项与基础目录结构](editor/publish/native-options.md)
+    - [发布到安卓](editor/publish/publish-android.md)
+    - [发布到 iOS](editor/publish/publish-ios.md)
+    - [发布到 Mac](editor/publish/publish-mac.md)
+    - [发布到 Windows](editor/publish/publish-windows.md)
     - [原生平台 JavaScript 调试](editor/publish/debug-jsb.md)
   - [发布到 iOS App Clip (轻 App)](editor/publish/publish-ios-app-clip.md)
   - [发布到支付宝小游戏](editor/publish/publish-alipay-mini-game.md)
@@ -64,7 +69,9 @@
   - [发布到百度小游戏](editor/publish/publish-baidu-mini-game.md)
   - [发布到微信小游戏](editor/publish/publish-wechatgame.md)
     - [启用微信小游戏引擎插件](editor/publish/wechatgame-plugin.md)
-  - [开放数据域](editor/publish/build-open-data-context.md)
+    - [开放数据域](editor/publish/build-open-data-context.md)
+  - [发布到连尚小游戏](publish-link-sure.md)
+  - [发布到趣头条小游戏](publish-qtt.md)
 
 ## 引擎手册
 
